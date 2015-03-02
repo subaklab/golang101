@@ -1,10 +1,9 @@
 ## Golang 101 Training Classes
 [Click Here To Review The Course Material](00-slides/readme.md)
 
-## Bootcamp Tour
+## Golang 101 Tour
 Golang 101 Training은 총 3일간 진행됩니다. 교육에서는 Go언어의 idiom을 이해하여 Go언어로 작성된 소스를 읽을 수 있도록 하는 것이 목표입니다. 교육 내용은 문법, 객체지향, 동시성(Concurrency), 채널(channel), 테스팅 및 디버깅 등으로 구성되어 있습니다. 짧은 시간내에 Go언어를 익히고 활용하고자 하는 개발자를 위한 교육입니다. 
 
-[Bootcamp Tour](http://www.ardanlabs.com/go-bootcamp-tour)
 
 ## 교육
 
@@ -51,9 +50,8 @@ Donghee Park
 기업에서 초쳥하여 진행하는 교육에 대해서 비용은 별도 문의해 주세요. 수업은 한 반에 최대 25명 이내에서 자유로 선택하실 수 있습니다.
 
 
-## 담당자 연결
+## 문의
 
-Jeyong Shin
 Subak.io  
 서울특별시
 subak.io@outlook.com
